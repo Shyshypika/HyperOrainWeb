@@ -1,0 +1,5 @@
+flask
+requests
+readability-lxml
+duckduckgo-search
+gunicorn
