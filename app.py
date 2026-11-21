@@ -27,7 +27,7 @@ HOME_HTML = """
         <input type="text" name="q" placeholder="Search Retro Search with proxy." required>
         <input type="submit" value="Search">
     </form>
-    <h1>DuckDuckGo engine 2.0 Cloudflare Worker.dev Online</h1>
+    <h2>DuckDuckGo engine 2.0 Cloudflare Worker.dev Online</h2>
 </body>
 </html>
 """
