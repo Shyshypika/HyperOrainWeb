@@ -5,7 +5,7 @@ import requests
 
 app = Flask(__name__)
 
-WORKER_URL = "https://workers.dev"
+WORKER_URL = "https://hyperorianvpn1.yangdaniel64.workers.dev/"
 
 HOME_HTML = """
 <!DOCTYPE html>
