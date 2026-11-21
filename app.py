@@ -12,7 +12,7 @@ HOME_HTML = """
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>RetroSearch</title>
+    <title>HyperOrainWeb</title>
     <style>
         body { font-family: system-ui, sans-serif; background: #121218; color: #fff; margin: 0; padding: 40px 20px; text-align: center; }
         h1 { color: #a29bfe; margin-bottom: 20px; }
@@ -22,11 +22,12 @@ HOME_HTML = """
     </style>
 </head>
 <body>
-    <h1>RetroSearch</h1>
+    <h1>HyperOrain</h1>
     <form action="/search" method="get">
-        <input type="text" name="q" placeholder="Search privately..." required>
+        <input type="text" name="q" placeholder="Search Retro Search with proxy." required>
         <input type="submit" value="Search">
     </form>
+    <h1>DuckDuckGo engine 2.0 Cloudflare Worker.dev Online</h1>
 </body>
 </html>
 """
